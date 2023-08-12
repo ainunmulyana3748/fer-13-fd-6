@@ -1,0 +1,6 @@
+.col {
+  width: 100px;
+  height: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(77, 72, 72, 0.5);
+}
